@@ -1,4 +1,4 @@
 helloworld
 ==========
 
-This is a simple "Hello World" application as an introduction to Python.
+This Is A Simple "Hello World" Application As An Introduction To Python.
